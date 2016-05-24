@@ -14,3 +14,7 @@ C. Barton, A. Heliou, L. Mouchard, S. P. Pissis, "Linear-time Computation of Min
 When publishing work that is based on the results from pMAW please cite:
 
 C. Barton, A. Heliou, L. Mouchard, S. P. Pissis, "Engineering the Computation of Minimal Absent Words", 2015. (submitted)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nicoinn/maw/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
